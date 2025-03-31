@@ -693,7 +693,7 @@ void TileManager::DrawImGui() {
                     }
 
                     // Range DragFloat
-                    if (ImGui::DragFloat("Range", &range, 1.0f, 10.0f, 1000.0f, "%.1f")) {
+                    if (ImGui::DragFloat("Range", &range, 1.0f, 10.0f, 1000.0f, "%.3f")) {
                         selectedLight->setRange(range);
                     }
 

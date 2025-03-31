@@ -1,7 +1,10 @@
-Platform,320.753,387.573,300,78.1,0,1,0,1,Platform.png
+Platform,320.753,387.573,385.5,78.1,0,1,0,1,Platform.png
 icon,664,238,50,50,0,1,0,1,icon.png
-Wall,433.271,293.841,68.2,92.5,0,1,0,1,Wall.png
 Collectable,440,82,50,50,1,0,1,1,Collectable.png
 Collectable,557,86,50,50,1,0,1,1,Collectable.png
 Collectable,718,82,50,50,1,0,1,1,Collectable.png
-Collectable,1184.8,136.728,50,50,0,1,0,1,Collectable.png
+Collectable,1184.8,136.728,50,50,1,0,1,1,Collectable.png
+Platform,1355.38,218.212,300,50,0,1,0,1,Platform.png
+Platform,1640.22,343.711,300,50,0,1,0,1,Platform.png
+Platform,850.674,227.774,300,50,0,1,0,1,Platform.png
+Platform,1135.51,353.274,300,50,0,1,0,1,Platform.png
